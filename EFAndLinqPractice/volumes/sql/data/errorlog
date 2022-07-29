@@ -65,3 +65,24 @@
 2022-07-29 19:19:46.98 spid37s     The Database Mirroring endpoint is in disabled or stopped state.
 2022-07-29 19:19:47.04 spid37s     Service Broker manager has started.
 2022-07-29 19:19:47.04 spid10s     Recovery is complete. This is an informational message only. No user action is required.
+2022-07-29 19:24:51.60 spid52      Attempting to load library 'xplog70.dll' into memory. This is an informational message only. No user action is required.
+2022-07-29 19:24:51.80 spid52      Using 'xplog70.dll' version '2019.150.4236' to execute extended stored procedure 'xp_msver'. This is an informational message only; no user action is required.
+2022-07-29 19:26:00.94 Logon       Error: 18456, Severity: 14, State: 38.
+2022-07-29 19:26:00.94 Logon       Login failed for user 'sa'. Reason: Failed to open the explicitly specified database 'SchoolDatabase'. [CLIENT: 172.19.0.1]
+2022-07-29 19:26:10.96 Logon       Error: 18456, Severity: 14, State: 38.
+2022-07-29 19:26:10.96 Logon       Login failed for user 'sa'. Reason: Failed to open the explicitly specified database 'SchoolDatabase'. [CLIENT: 172.19.0.1]
+2022-07-29 19:26:28.80 spid55      Attempting to load library 'xpstar.dll' into memory. This is an informational message only. No user action is required.
+2022-07-29 19:26:28.83 spid55      Using 'xpstar.dll' version '2019.150.4236' to execute extended stored procedure 'xp_instance_regread'. This is an informational message only; no user action is required.
+2022-07-29 19:41:37.32 Logon       Error: 18456, Severity: 14, State: 38.
+2022-07-29 19:41:37.32 Logon       Login failed for user 'sa'. Reason: Failed to open the explicitly specified database 'SchoolDatabase'. [CLIENT: 172.19.0.1]
+2022-07-29 19:41:39.14 spid52      [5]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1.
+2022-07-29 19:41:39.16 spid52      Starting up database 'SchoolDatabase'.
+2022-07-29 19:41:39.63 spid52      Parallel redo is started for database 'SchoolDatabase' with worker pool size [4].
+2022-07-29 19:41:39.70 spid52      Parallel redo is shutdown for database 'SchoolDatabase' with worker pool size [4].
+2022-07-29 19:41:39.99 spid52      Setting database option READ_COMMITTED_SNAPSHOT to ON for database 'SchoolDatabase'.
+2022-07-29 19:41:40.20 spid52      [5]. Feature Status: PVS: 0. CTR: 0. ConcurrentPFSUpdate: 1.
+2022-07-29 19:41:40.20 spid52      Starting up database 'SchoolDatabase'.
+2022-07-29 19:41:40.65 spid52      Parallel redo is started for database 'SchoolDatabase' with worker pool size [4].
+2022-07-29 19:41:40.73 spid30s     Parallel redo is shutdown for database 'SchoolDatabase' with worker pool size [4].
+2022-07-29 19:45:47.10 spid55      Attempting to load library 'xpsqlbot.dll' into memory. This is an informational message only. No user action is required.
+2022-07-29 19:45:47.19 spid55      Using 'xpsqlbot.dll' version '2019.150.4236' to execute extended stored procedure 'xp_qv'. This is an informational message only; no user action is required.
